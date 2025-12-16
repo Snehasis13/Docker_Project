@@ -1,0 +1,8 @@
+{"level":"info","message":"Yoo... endpoint was hit","service":"docker_project-api","timestamp":"2025-12-16T18:57:05.463Z"}
+{"level":"info","message":"Yoo... endpoint was hit","service":"docker_project-api","timestamp":"2025-12-16T19:35:00.457Z"}
+{"level":"info","message":"User snehasis@lpu.in created successfully","service":"docker_project-api","timestamp":"2025-12-16T20:02:13.205Z"}
+{"level":"info","message":"User registered successfully: snehasis@lpu.in","service":"docker_project-api","timestamp":"2025-12-16T20:02:13.218Z"}
+{"level":"error","message":"Error creating the user: Error: User with this email already exists","service":"docker_project-api","timestamp":"2025-12-16T20:02:23.530Z"}
+{"level":"error","message":"Signup error User with this email already exists","service":"docker_project-api","stack":"Error: User with this email already exists\n    at createUser (file:///Users/snehasiskoley/Desktop/Docker/Docker_Project/src/services/auth.service.js:34:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signUp (file:///Users/snehasiskoley/Desktop/Docker/Docker_Project/src/controllers/auth.controller.js:21:18)","timestamp":"2025-12-16T20:02:23.531Z"}
+{"level":"info","message":"User snehasis@gmail.com created successfully","service":"docker_project-api","timestamp":"2025-12-16T20:02:35.812Z"}
+{"level":"info","message":"User registered successfully: snehasis@gmail.com","service":"docker_project-api","timestamp":"2025-12-16T20:02:35.814Z"}
