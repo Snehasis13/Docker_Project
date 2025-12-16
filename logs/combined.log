@@ -6,3 +6,27 @@
 {"level":"error","message":"Signup error User with this email already exists","service":"docker_project-api","stack":"Error: User with this email already exists\n    at createUser (file:///Users/snehasiskoley/Desktop/Docker/Docker_Project/src/services/auth.service.js:34:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signUp (file:///Users/snehasiskoley/Desktop/Docker/Docker_Project/src/controllers/auth.controller.js:21:18)","timestamp":"2025-12-16T20:02:23.531Z"}
 {"level":"info","message":"User snehasis@gmail.com created successfully","service":"docker_project-api","timestamp":"2025-12-16T20:02:35.812Z"}
 {"level":"info","message":"User registered successfully: snehasis@gmail.com","service":"docker_project-api","timestamp":"2025-12-16T20:02:35.814Z"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:24:38.004Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:24:44.317Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:24:45.188Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:24:45.961Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:07.965Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:25.652Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:28.032Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:28.404Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:28.859Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:31.729Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:32.177Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:32.646Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:33.170Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:33.625Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:34.092Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:34.551Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:34.998Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:35.409Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:35.801Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:36.267Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:36.652Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:37.071Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:37.489Z","userAgent":"PostmanRuntime/7.44.1"}
+{"ip":"::1","level":"warn","message":"Bot request blocked","path":"/health","service":"docker_project-api","timestamp":"2025-12-16T20:25:37.875Z","userAgent":"PostmanRuntime/7.44.1"}
