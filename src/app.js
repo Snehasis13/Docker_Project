@@ -17,7 +17,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(morgan('combined'));
 app.use(cookieParser());
 
-app.use(securityMiddleware)
+app.use(securityMiddleware);
 
 app.use('/api/auth', authRoutes);
 
@@ -28,11 +28,11 @@ app.get('/', (req, res) => {
 
 app.get('/health', (req,res) =>{
   res.status(200).json({ status: 'OK', timestamp: new Date().toISOString(), uptime : process.uptime()});
-})
+});
 
 app.get('/api', (req,res) =>{
   res.status(200).json({message: 'Docker_project API is running!'});
-})
+});
 
 app.use('/api/users', usersRoutes);
 

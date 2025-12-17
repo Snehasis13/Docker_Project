@@ -5,10 +5,10 @@ const config = {
   clearMocks: true,
 
   collectCoverage: true,
-  coverageDirectory: "coverage",
-  coverageProvider: "v8",
+  coverageDirectory: 'coverage',
+  coverageProvider: 'v8',
 
-  testEnvironment: "node",
+  testEnvironment: 'node',
 };
 
 export default config;
