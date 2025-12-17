@@ -1,4 +1,4 @@
-import arcjet, { shield, detectBot, slidingWindow } from "@arcjet/node";
+import arcjet, { shield, detectBot, slidingWindow } from '@arcjet/node';
 
 const aj = arcjet({
   // Get your site key from https://app.arcjet.com and set it as an environment
@@ -31,10 +31,10 @@ const aj = arcjet({
     // }),
 
     slidingWindow({
-        mode: 'LIVE',
-        interval: 2,
-        max : 5
-    })
+      mode: 'LIVE',
+      interval: 2,
+      max: 5,
+    }),
   ],
 });
 
