@@ -31,7 +31,7 @@ app.get('/health', (req,res) =>{
 })
 
 app.get('/api', (req,res) =>{
-  res.status(200).json({message: 'Docker_project APi is running'});
+  res.status(200).json({message: 'Docker_project API is running!'});
 })
 
 app.use('/api/users', usersRoutes);
